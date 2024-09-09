@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-public class Crawrling1Application {
+public class SpringSecurityApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Crawrling1Application.class, args);
+		SpringApplication.run(SpringSecurityApplication.class, args);
 	}
 
 }
